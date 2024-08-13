@@ -17,7 +17,7 @@ This is a solution to the Loop Studio project, showcasing an immersive experienc
 
 Loop Studio is a web application designed to showcase the company’s leading position in creating interactive VR experiences. It features a modern, responsive design and an engaging user interface, highlighting the company's various projects and creations.
 
-![Loop Studio Logo](loop studio.jpeg)
+![Loop Studio Logo](loop-studio.jpeg)
 
 ## Features
 
